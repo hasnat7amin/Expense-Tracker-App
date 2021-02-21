@@ -1,4 +1,4 @@
-#Expense Tracker App
+###Expense Tracker App
 
 [Expense Tracker APP](http://expensetrackerapphasnat.surge.sh/) Click on this button to move on my app
 
